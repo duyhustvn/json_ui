@@ -1,0 +1,12 @@
+# put this file to ~/.local/share/applications/
+# update the Exec and Icon to the appropriate location
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=JsonUI
+Exec=/opt/JsonUI/json_ui
+Icon=/opt/JsonUI/icons/json.png
+Comment=JsonUI
+Categories=Development
+Terminal=false
+StartupNotify=true
